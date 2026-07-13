@@ -1,6 +1,5 @@
 ## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a Snake and Ladders Game LLD Design Demo
 
 ## Folder Structure
 
