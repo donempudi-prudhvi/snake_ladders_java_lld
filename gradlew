@@ -84,7 +84,7 @@ native=false
 case "$( uname )" in
   CYGWIN* )         cygwin=true  ;;
   Darwin* )         darwin=true  ;;
-  MSYS* / MINGW* )  msys=true   ;;
+  MSYS* | MINGW* )  msys=true   ;;
   NATIVEIMAGE* )    native=true ;;
 esac
 
